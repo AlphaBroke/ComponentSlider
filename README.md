@@ -1,2 +1,2 @@
-# ComponentSlider
+# navigation
 Created with CodeSandbox
